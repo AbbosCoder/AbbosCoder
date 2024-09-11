@@ -6,10 +6,10 @@
 # <div align="center">I'm Abbosbek, a full-time Python full-stack  developer 👨‍💻  🚀</div>  
 
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- WEB sayt 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Telegram bot creator
   
 
 <br/>  
