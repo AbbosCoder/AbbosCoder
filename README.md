@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abbosbek, a full-time Python full-stack  developer 👨‍💻  🚀</div>  
+# <div align="center">I'm Abbosbek, a full-time Python full-stack  developer 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/AbbosCoder/)  
