@@ -3,15 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Abbosbek, a full-time Python full-stack  developer 👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/AbbosCoder/)  
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
