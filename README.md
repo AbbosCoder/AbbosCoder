@@ -48,7 +48,7 @@
 
 </td>
 
-<br/>  
+<br>  
 
 
 ## Connect with me  
