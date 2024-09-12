@@ -11,14 +11,10 @@
 
 ## - Telegram bot creator (Aiogram, Telebot, Pyrogram, Telethon)
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ## Frontend  
 <div align="center">  
@@ -33,7 +29,6 @@
 </td><td valign="top" width="50%">
 
 
-
 ## Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -46,10 +41,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td></tr></table>
 
-
-</td>
 <br/>  
 
 
@@ -99,6 +92,4 @@
 <br/>  
 
 <div align="center"></div>
-<br />
-
-----
+<br/>
