@@ -9,7 +9,7 @@
 ## - WEB sayt (Django, Rest Framework, Swagger API)
   
 
-## - Telegram bot creator
+## - Telegram bot creator (Aiogram, Telebot, Pyrogram, Telethon)
   
 
 <br/>  
