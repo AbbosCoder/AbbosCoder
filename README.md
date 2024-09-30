@@ -6,7 +6,7 @@
 # <div align="center">I'm Abbosbek, a full-time Python full-stack  developer 👨‍💻  🚀</div>  
 
   
-## - WEB sayt (Django, Rest Framework, Swagger API, DRF, FastAPI)
+## - WEB sayt (Django, Rest Framework, Swagger API, DRF, FastAPI, HTML, CSS, BOOTSTAP...)
   
 
 ## - Telegram bot creator (Aiogram, Telebot, Pyrogram, Telethon)
