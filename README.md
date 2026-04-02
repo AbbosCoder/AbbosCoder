@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abbosbek%20Turdaliyev&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🐍%20Python%20Full-Stack%20Developer%20%7C%20🤖%20Bot%20Architect&descSize=18&descAlignY=55&descColor=00e5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abbosbek%20Turdaliyev&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🐍%20Python%20Full-Stack%20Developer%20%7C%20🤖%20Bot%20Architect%20DEVOPS&descSize=18&descAlignY=55&descColor=00e5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Python+Full-Stack+Developer+%F0%9F%90%8D;Django+%7C+FastAPI+%7C+DRF+%7C+Swagger+%E2%9A%A1;Telegram+Bot+Creator+%F0%9F%A4%96+(Aiogram+%7C+Pyrogram);Linux+%7C+PostgreSQL+%7C+Docker+%F0%9F%90%A7;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
